@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WildLens</string>
+    <string name="next">Next</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="pick_nickname">Choose a nickname</string>
+    <string name="game_view_content_description" translatable="false">Game view</string>
+    <string name="play">Play</string>
+    <string name="select_level">Select Level</string>
+    <string name="local_scores">Local Scores</string>
+    <string name="global_scores">Global Scores</string>
+    <string name="level_completed">"You've completed \n\n the level "</string>
+    <string name="level_selection">"Level \n selection"</string>
+    <string name="you_lose">You Lost</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="volume">Volume</string>
+    <string name="theme">Theme</string>
+    <string name="points">Pts.</string>
+    <string name="seconds">Sec.</string>
+    <string name="user_name">User Name</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="score_date">Score Date</string>
+    <string name="default_web_client_id">239107092707-aueokqg6udj8l98bto586f496j8t0558.apps.googleusercontent.com</string>
+    <string name="sign_in_with_google">Inciar sesión con Google</string>
+    <string name="signed_out">Signed out</string>
+    <string name="exit">Exit</string>
+    <string name="date">Date</string>
+    <string name="or">or</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="game_over">Game Over</string>
+    <string name="levels_passed">Levels Passed</string>
+    <string name="first_level_dodge_the_falling_blocks">First level: Dodge the falling blocks</string>
+    <string name="second_level_break_the_walls">Second level: Break the walls</string>
+    <string name="third_level_remove_the_cubes">Third level: Remove the cubes</string>
+    <string name="fourth_level">Fourth level: Coming soon</string>
+</resources>
